@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NewToAllThisStuff
-- 👀 I’m interested in learning programming
+- 👀 I’m interested in learning programming with C language
 - 🌱 I’m currently learning the absolute basics
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
